@@ -102,5 +102,13 @@
   <ItemGroup>
     <Resource Include="Assets\cloudy.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\cleaned_city_names.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\villes_france.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

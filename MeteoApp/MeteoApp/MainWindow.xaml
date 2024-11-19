@@ -9,6 +9,9 @@
 
     <Grid>
         <Grid.Resources>
+
+           
+        
             <Style x:Key="Day" TargetType="{x:Type TextBlock}">
                 <Setter Property="FontFamily" Value="Arial"/>
                 <Setter Property="FontSize" Value="30px"/>
@@ -18,6 +21,15 @@
                 <Setter Property="VerticalAlignment" Value="Center"/>
             </Style>
 
+            <Style x:Key="BTN" TargetType="{x:Type Button}">
+                <Setter Property="Margin" Value="5,0,0,0"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Style.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="25"/>
+                    </Style>
+                </Style.Resources>
+            </Style>
             <Style x:Key="Temp" TargetType="{x:Type TextBlock}">
                 <Setter Property="Background" Value="Transparent"/>
                 <Setter Property="Foreground" Value="White"/>
@@ -41,15 +53,38 @@
         </Grid.RowDefinitions>
 
         <Grid Grid.Row="1">
-            <TextBox 
-                Name="TB_city" 
-                FontSize="40px" 
-                Background="Transparent" 
-                BorderThickness="0" 
-                FontWeight="Bold" 
-                Foreground="White" 
-                Margin="30,0,0,0">
-            </TextBox>
+            <StackPanel Orientation="Horizontal">
+                <ComboBox 
+                     Name="CB_City"
+                     SelectionChanged="CB_City_SelectionChanged"
+                     HorizontalAlignment="Left" 
+                    Margin="5,0,10,0"
+                     Height="23"
+                     Width="120">
+                </ComboBox>
+                <TextBox 
+                    Name="TB_Add"
+                    Height="23" 
+                    Width="120">
+                </TextBox>
+                <Button 
+                    Style="{StaticResource BTN}"
+                    Background="LightGreen" 
+                    Name="BTN_ADD" 
+                    Height="23" 
+                    Width="23" 
+                    Click="BTN_Add">+
+                </Button>
+                <Button 
+                    Style="{StaticResource BTN}"
+                    Background="Red"
+                    Name="BTN_DEL"
+                    Height="23" 
+                    Width="23" 
+                    Click="BTN_Del">-
+                </Button>
+            </StackPanel>
+           
         </Grid>
 
         <Grid Grid.Row="2">

@@ -16,3 +16,6 @@ C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\obj\Debug\Met
 C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\obj\Debug\MeteoApp.csproj.Up2Date
 C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\obj\Debug\MeteoApp.exe
 C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\obj\Debug\MeteoApp.pdb
+C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\obj\Debug\MeteoApp_Content.g.cs
+C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\bin\Debug\Assets\villes_france.txt
+C:\Users\SLAB59\OneDrive - Saint Michel\MeteoApp\MeteoApp\MeteoApp\bin\Debug\Assets\cleaned_city_names.txt

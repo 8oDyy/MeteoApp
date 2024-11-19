@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\meteoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|solutionrelative:meteoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|c:\\users\\slab59\\onedrive - saint michel\\meteoapp\\meteoapp\\meteoapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|solutionrelative:meteoapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\meteoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|solutionrelative:meteoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\meteoapp\\model\\troubadour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|solutionrelative:meteoapp\\model\\troubadour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|c:\\users\\slab59\\onedrive - saint michel\\meteoapp\\meteoapp\\meteoapp\\assets\\villes_france.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|solutionrelative:meteoapp\\assets\\villes_france.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|c:\\users\\slab59\\onedrive - saint michel\\meteoapp\\meteoapp\\meteoapp\\assets\\cleaned_city_names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76F3C479-B069-408D-8BF0-1C03517ED3AC}|MeteoApp\\MeteoApp.csproj|solutionrelative:meteoapp\\assets\\cleaned_city_names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cleaned_city_names.txt",
+              "DocumentMoniker": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\Assets\\cleaned_city_names.txt",
+              "RelativeDocumentMoniker": "MeteoApp\\Assets\\cleaned_city_names.txt",
+              "ToolTip": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\Assets\\cleaned_city_names.txt",
+              "RelativeToolTip": "MeteoApp\\Assets\\cleaned_city_names.txt",
+              "ViewState": "AQIAAMWeAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T09:47:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "villes_france.txt",
+              "DocumentMoniker": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\Assets\\villes_france.txt",
+              "RelativeDocumentMoniker": "MeteoApp\\Assets\\villes_france.txt",
+              "ToolTip": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\Assets\\villes_france.txt",
+              "RelativeToolTip": "MeteoApp\\Assets\\villes_france.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T10:18:09.104Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,14 +66,14 @@
               "RelativeDocumentMoniker": "MeteoApp\\Model\\Troubadour.cs",
               "ToolTip": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\Model\\Troubadour.cs",
               "RelativeToolTip": "MeteoApp\\Model\\Troubadour.cs",
-              "ViewState": "AQIAAI0CAAAAAAAAAAArwJgCAAAaAAAA",
+              "ViewState": "AQIAAE4CAAAAAAAAAIA7wKECAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T10:21:27.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MeteoApp\\MainWindow.xaml",
@@ -51,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MeteoApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\SLAB59\\OneDrive - Saint Michel\\MeteoApp\\MeteoApp\\MeteoApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MeteoApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAvwFUAAAAwAAAA",
+              "ViewState": "AQIAALAAAAAAAAAAAAAiwMMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T12:38:17.29Z",
               "EditorCaption": ""
